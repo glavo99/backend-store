@@ -6,18 +6,18 @@ This repo contains a basic Node and Express app to get you started in constructi
 
 ## Environment variables
 
-port=3000
-ENV=dev
-POSTGRES_HOST=127.0.0.1
-POSTGRES_PORT=5432
-POSTGRES_DB=store_dev
-POSTGRES_TEST_DB=store_test
-POSTGRES_USER=<user>
-POSTGRES_PASSWORD=<password>
-BCRYPT_PASSWORD=french-defense-is-solid
-SALT_ROUNDS=10
-JWT_SECRET=spanish-game-should-always-be-considered
-JWT_EXPIRES_IN=90d
+- port=3000
+- ENV=dev
+- POSTGRES_HOST=127.0.0.1
+- POSTGRES_PORT=5432
+- POSTGRES_DB=store_dev
+- POSTGRES_TEST_DB=store_test
+- POSTGRES_USER=<user>
+- POSTGRES_PASSWORD=<password>
+- BCRYPT_PASSWORD=french-defense-is-solid
+- SALT_ROUNDS=10
+- JWT_SECRET=spanish-game-should-always-be-considered
+- JWT_EXPIRES_IN=90d
 
 ## project setup instructions
 
