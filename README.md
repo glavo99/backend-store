@@ -31,3 +31,5 @@ run npm install to recover npm files for dependencies and dev-dependencies
 npm run migrate-up
 npm run start-dev
 open post man and check the api endpoints as shown in requirements
+
+  Feel free to navigate throw the project
